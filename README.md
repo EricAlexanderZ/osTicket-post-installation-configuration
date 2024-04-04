@@ -70,6 +70,7 @@ Next, your users will be able to submit tickets or issues/problems they're encou
 
 <p>
 Now you or your Agents will be able to view and resolve the tickets accordinglly, Check out the next tutorial on Ticket Lifecycle Examples next!
+(https://github.com/EricAlexanderZ/osTicket-Lifecycle-Example)
 </p>
 
 
