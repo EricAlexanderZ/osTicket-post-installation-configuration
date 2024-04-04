@@ -10,7 +10,6 @@ This tutorial outlines the post installation configuration / setup of the open-s
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
-- Internet Information Services (IIS)
 - osTicket Open Source Ticketing System
 
 <h2>Operating Systems Used </h2>
@@ -70,7 +69,7 @@ Next, your users will be able to submit tickets or issues/problems they're encou
 
 
 <p>
-Now you or your Agents will be able to view and resolve the tickets accordinglly, Check out the next tutorial on tickets & ticket lifecycle next!
+Now you or your Agents will be able to view and resolve the tickets accordinglly, Check out the next tutorial on Ticket Lifecycle Examples next!
 </p>
 
 
